@@ -1,12 +1,22 @@
 .container{
     margin: 0 auto;
     text-align: center;
+    color: rgb(18, 18, 19);
 }
 
-.tarjeta{
-    text-align: center;
+body{
+    background-image: url("img/img.9.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
+.card{
+    margin: 0 auto;
+    background-color: #a30b0b;
+    text-align: center; 
+    color: black;
+}
 
 
 
